@@ -9,6 +9,7 @@ Uma enciclopédia interativa para os amantes de videogames, onde você pode enco
 Este projeto é uma Single Page Application (SPA) que funciona como uma enciclopédia de consoles de videogame. Foi criado para ser um hub de informações para gamers e entusiastas, permitindo a busca por detalhes, curiosidades e informações técnicas sobre diversos consoles, desde os clássicos até os mais modernos.
 
 A aplicação é construída com tecnologias web front-end puras (HTML, CSS e JavaScript), o que a torna leve, rápida e fácil de manter. O objetivo é oferecer uma experiência de usuário fluida e direta.
+Resultado(https://rpteciadev.github.io/VideoGames/)
 
 ## ✨ Funcionalidades
 
